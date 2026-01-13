@@ -1,0 +1,11 @@
+# Interview materials (interviewer only)
+INTERVIEW_PLAN.md
+correct/
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+

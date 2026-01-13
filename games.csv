@@ -1,0 +1,4 @@
+game_id,venue_id,home_team_id,home_team_abbreviation,away_team_id,away_team_abbreviation,home_team_points,away_team_points,home_team_score_q1,home_team_score_q2,home_team_score_q3,home_team_score_q4,home_team_score_ot1,away_team_score_q1,away_team_score_q2,away_team_score_q3,away_team_score_q4,away_team_score_ot1,total_points
+143f4ca0-9d3a-4fc7-b707-2c168bb4a8f3,62cc9661-7b13-56e7-bf4a-bba7ad7be8da,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,TOR,583ec825-fb46-11e1-82cb-f4ce4684ea4c,GSW,141,130,33,32,31,26,19,29,35,36,22,5,271
+1869987e-fde8-4f36-9251-095c31d63e16,938016dc-9e1d-4abc-88f5-3a7d772332e6,583ec825-fb46-11e1-82cb-f4ce4684ea4c,GSW,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,DAL,126,116,40,31,29,26,,28,30,31,27,,242
+35ca6908-f5a0-435c-ac65-d6c2384d1ffb,938016dc-9e1d-4abc-88f5-3a7d772332e6,583ec825-fb46-11e1-82cb-f4ce4684ea4c,GSW,583ed157-fb46-11e1-82cb-f4ce4684ea4c,ORL,120,97,26,32,31,31,,30,27,26,14,,217
